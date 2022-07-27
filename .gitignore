@@ -1,5 +1,11 @@
-# Adding config.py file.
-config.py
+  # Adding config.py file.
+  config.py
+  
+  #Adding additional files
+  API_practice.ipynb
+  random_numbers.ipynb
+  
+  git status
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
